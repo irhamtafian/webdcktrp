@@ -15,7 +15,7 @@
     <label for="check" class="checkbtn">
       <i class="fa fa-bars"></i>
     </label>
-    <label class="logo">DINAS CIPTA KARYA TATA RUANG DAN PERTANAHAN </label>
+    <img src="img/logo.png" width="360px" height="50px">
   <ul>
   <li><a href="#"><i class="fa fa-fw fa-home"></i>Beranda</a></li>
   <li><a href="#"><i class="fa fa-university"></i>Profil</a></li>

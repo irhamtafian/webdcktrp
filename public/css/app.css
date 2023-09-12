@@ -57,8 +57,7 @@ a:hover{
   display: none;
 }
 @media(max-width: 952px){
-  label.logo{
-    font-size: 6px;
+  nav img{
     padding-left: 50px;
   }
   nav ul li a{
@@ -95,12 +94,7 @@ a:hover{
   }
 }
 /* slider */
-.images{
-  display: flex;
-}
-.wrapper{
-  width: 800px;
-  margin: 5px;
-  border-radius: 20px;
-  padding: 5px;
-}
+nav img{
+	float: left;
+	margin-left: 15px;
+  margin-top: 15px;}
